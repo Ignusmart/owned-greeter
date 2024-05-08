@@ -1,10 +1,10 @@
-name = "owned-greeter"
+name = "owned-greeter-ignusmart"
 version = "<%= package.version %>"
 description = "Simple greeter project that can be owned"
 keywords = ["sample", "greeter", "owned"]
 
 [setting.salt]
-defaultValue = "owned-greeter"
+defaultValue = "owned-greeter-ignusmart"
 
 [contract.Greeter]
 artifact = "Greeter"
